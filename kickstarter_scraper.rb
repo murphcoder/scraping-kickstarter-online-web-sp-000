@@ -20,3 +20,5 @@ def create_project_hash
 puts projects
 
 end
+
+create_project_hash
